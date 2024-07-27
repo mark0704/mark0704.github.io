@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1,CCTV1-综合
 http://110.189.102.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV2-财经
